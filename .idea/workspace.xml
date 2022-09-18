@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d5df22b-4b93-4df5-a4ad-e9a8049d75d2" name="Changes" comment="page 121 in headFirstJava">
-      <change afterPath="$PROJECT_DIR$/src/another_X/MixFor5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9d5df22b-4b93-4df5-a4ad-e9a8049d75d2" name="Changes" comment="page 121 in headFirstJava(x+6)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663517294985</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="page 121 in headFirstJava(x+6)">
+      <created>1663518923676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663518923676</updated>
+    </task>
+    <task id="LOCAL-00004" summary="page 121 in headFirstJava(x+6)">
+      <created>1663519092660</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663519092660</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="page 121 in headFirstJava" />
-    <option name="LAST_COMMIT_MESSAGE" value="page 121 in headFirstJava" />
+    <MESSAGE value="page 121 in headFirstJava(x+6)" />
+    <option name="LAST_COMMIT_MESSAGE" value="page 121 in headFirstJava(x+6)" />
   </component>
 </project>
